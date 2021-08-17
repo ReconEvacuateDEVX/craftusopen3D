@@ -1,12 +1,29 @@
+This Is A Community Made Fork Of Craftus Reloaded
+If You Want To See The Original Product Look Below
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Craftus 3D Reloaded
 
-Craftus Reloaded is a homebrew Minecraft clone for Nintendo 3DS. It's under active development. It currently features only a creative-mode-esque game mode with infinite resources.
+Craftus Reloaded is a homebrew Minecraft clone for Nintendo 3DS. It's under active development now by the community. It currently features only a creative-mode-esque game mode with infinite resources.
 
-![](https://raw.githubusercontent.com/wiki/RSDuck/craftus_reloaded/screenshots/15t.png)|![](https://raw.githubusercontent.com/wiki/RSDuck/craftus_reloaded/screenshots/17t.png)|![](https://raw.githubusercontent.com/wiki/RSDuck/craftus_reloaded/screenshots/16t.png)
-----|----|----
-![](https://raw.githubusercontent.com/wiki/RSDuck/craftus_reloaded/screenshots/15b.png)|![](https://raw.githubusercontent.com/wiki/RSDuck/craftus_reloaded/screenshots/17b.png)|![](https://raw.githubusercontent.com/wiki/RSDuck/craftus_reloaded/screenshots/16b.png)
 
-## History
+## History (of original product)
 
 It's been a while since I started developing this version of Craftus. I started to do a rewrite, because the old Craftus was beyond fixable. Probably 15% is copied from the old Craftus the remaining part is rewritten.
 
@@ -58,8 +75,7 @@ _The options are changed in `sd:/craftus/options.ini`._
 
 ## Known bugs
 
-* ~~I experienced once, that blocks, which are newly placed in a specific chunk weren't rendered anymore, but blocks placed in another chunk were, but I couldn't reproduce this bug. Maybe it's related to old savefiles~~ I hope I fixed this bug, because I couldn't find a way to reproduce it.
-* ~~Making a screenshot with Luma Rosalina menu leads to crash~~ Somehow this doesn't happen anymore
+Unknown
 
 ## Credits
 * People who made 3DS homebrew possible
